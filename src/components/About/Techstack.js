@@ -16,6 +16,7 @@ import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import MUI from "../../Assets/TechIcons/MUI.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
 import AWS from "../../Assets/TechIcons/AWS.svg";
+import { SiNextdotjs } from "react-icons/si";
 
 function Techstack() {
   return (
